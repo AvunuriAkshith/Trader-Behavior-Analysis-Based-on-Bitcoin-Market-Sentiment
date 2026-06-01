@@ -1,0 +1,9 @@
+This project investigates the relationship between Bitcoin market sentiment and trader performance using the Fear & Greed Index and Hyperliquid historical trading data.
+
+The analysis merged over 211,000 trading records with daily sentiment classifications to evaluate profitability, trading volume, and trader behavior across different market conditions.
+
+Results indicate that market sentiment significantly influences trading performance. Extreme Greed periods generated the highest average profit per trade, while Fear periods contributed the largest cumulative profits due to increased market participation.
+
+Statistical testing confirmed meaningful differences in profitability across sentiment groups, suggesting that sentiment-aware trading strategies may improve trading outcomes and risk management.
+
+These findings highlight the importance of incorporating market psychology indicators into quantitative trading frameworks.
